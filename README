@@ -1,1 +1,16 @@
 
+# README for Challenge 2. 
+Project Name : Document Explorer
+
+Description : Framework to write automated tests for Document Explorer. 
+
+
+Installation Process: 
+	Initial Requirement: System must have Selenium jar file, Java 1.8 and JUNIT 4.
+	Installation: Add external selenium jar file in Java build path.		
+		      
+Usage: Run as java class file. 
+
+
+Result:
+Return value will be the sorted list of collections and sorted list of documents belonging to collections.
