@@ -7,9 +7,9 @@ Description : Identification of document based on status and fetching the detail
 
 Installation Process: 
 	Initial Requirement: System must have java and Junit.
-	Installation: Import java class file, named ‘DocumentDestribution’ in java project.		
+	Installation: Import java class file, named ‘DocumentDistribution’ in java project.		
 		      
-Usage
+Usage:
 Provide the JSON file path name, having database which needs to be parsed, to function.
 Run as java test.
 
